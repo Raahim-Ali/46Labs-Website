@@ -1,0 +1,11 @@
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="44" height="44" rx="12" fill="#F4F4F4"/>
+<path d="M25.5 20.5C26.3284 20.5 27 21.1716 27 22C27 22.8284 26.3284 23.5 25.5 23.5C24.6716 23.5 24 22.8284 24 22C24 21.1716 24.6716 20.5 25.5 20.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 22H12.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="22" cy="22" r="10" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle opacity="0.12" cx="22" cy="22" r="10" fill="black"/>
+<path d="M17.8105 26.25C17.8105 25.4216 18.4821 24.75 19.3105 24.75C20.139 24.75 20.8105 25.4216 20.8105 26.25C20.8105 27.0784 20.139 27.75 19.3105 27.75C18.4821 27.75 17.8105 27.0784 17.8105 26.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.8105 26.25H30.4983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.8105 17.75C17.8105 18.5784 18.4821 19.25 19.3105 19.25C20.139 19.25 20.8105 18.5784 20.8105 17.75C20.8105 16.9216 20.139 16.25 19.3105 16.25C18.4821 16.25 17.8105 16.9216 17.8105 17.75" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.8105 17.75H30.4983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
